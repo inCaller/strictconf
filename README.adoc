@@ -1,0 +1,2 @@
+# strictconf
+Strict policy config parser
